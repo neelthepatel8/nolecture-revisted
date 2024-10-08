@@ -1,0 +1,3660 @@
+{
+  "89 Broad Street": {
+    "237": [
+      {
+        "id": "ESLG0045",
+        "start": "9:00",
+        "end": "10:30",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0045",
+        "start": "9:00",
+        "end": "10:30",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0224",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ESLG0224",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Thursday"
+      }
+    ],
+    "211": [
+      {
+        "id": "ESLG0045",
+        "start": "13:30",
+        "end": "15:00",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0045",
+        "start": "13:30",
+        "end": "15:00",
+        "day": "Wednesday"
+      }
+    ],
+    "209": [
+      {
+        "id": "ESLG0224",
+        "start": "15:00",
+        "end": "16:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ESLG0224",
+        "start": "15:00",
+        "end": "16:30",
+        "day": "Thursday"
+      }
+    ],
+    "215": [
+      {
+        "id": "ESLG0230",
+        "start": "13:30",
+        "end": "16:50",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0230",
+        "start": "13:30",
+        "end": "16:50",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0230",
+        "start": "9:00",
+        "end": "12:20",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0230",
+        "start": "9:00",
+        "end": "12:20",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "Hayden Hall": {
+    "425": [
+      {
+        "id": "ESLG0080",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "INSC1000",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "INSC1000",
+        "start": "15:25",
+        "end": "16:30",
+        "day": "Tuesday"
+      }
+    ],
+    "424": [
+      {
+        "id": "BIOL1000",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      }
+    ],
+    "222": [
+      {
+        "id": "MSCR1000",
+        "start": "15:25",
+        "end": "16:30",
+        "day": "Wednesday"
+      }
+    ],
+    "321": [
+      {
+        "id": "LPSC1101",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Wednesday"
+      },
+      {
+        "id": "LPSC1101",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Friday"
+      },
+      {
+        "id": "HUSV1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "HUSV1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "HUSV1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "BUSN1102",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Friday"
+      }
+    ],
+    "322": [
+      {
+        "id": "BUSN1102",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "BUSN1103",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Thursday"
+      }
+    ]
+  },
+  "Cullinane Building": {
+    "105": [
+      {
+        "id": "ESLG0080",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "ESLG0700",
+        "start": "8:00",
+        "end": "9:40",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ESLG0700",
+        "start": "8:00",
+        "end": "9:40",
+        "day": "Friday"
+      },
+      {
+        "id": "ESLG0700",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ESLG0700",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Friday"
+      }
+    ]
+  },
+  "International Village": {
+    "018": [
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Thursday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "8:00",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "8:00",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "8:00",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "13:35",
+        "end": "15:55",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "13:35",
+        "end": "15:55",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "13:35",
+        "end": "15:55",
+        "day": "Thursday"
+      },
+      {
+        "id": "ESLG0700",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ESLG0700",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Friday"
+      }
+    ],
+    "016": [
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Thursday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "8:00",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "8:00",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "8:00",
+        "end": "10:20",
+        "day": "Thursday"
+      }
+    ],
+    "013": [
+      {
+        "id": "INSC1000",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      }
+    ],
+    "014": [
+      {
+        "id": "WMNS1103",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "WMNS1103",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "WMNS1103",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      }
+    ],
+    "022": [
+      {
+        "id": "CHEM1103",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Tuesday"
+      }
+    ]
+  },
+  "Ryder Hall": {
+    "293": [
+      {
+        "id": "ESLG0095",
+        "start": "13:35",
+        "end": "15:55",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "13:35",
+        "end": "15:55",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "13:35",
+        "end": "15:55",
+        "day": "Thursday"
+      }
+    ],
+    "285": [
+      {
+        "id": "ESLG0095",
+        "start": "8:00",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "8:00",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "8:00",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Thursday"
+      }
+    ],
+    "283": [
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Thursday"
+      },
+      {
+        "id": "ESLG0550",
+        "start": "8:00",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0550",
+        "start": "8:00",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0550",
+        "start": "8:00",
+        "end": "10:20",
+        "day": "Thursday"
+      }
+    ],
+    "141": [
+      {
+        "id": "ESLG0120",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0510",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0510",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Friday"
+      },
+      {
+        "id": "ESLG0510",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0510",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Thursday"
+      },
+      {
+        "id": "GRMN1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "GRMN1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "GRMN1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      }
+    ],
+    "394": [
+      {
+        "id": "ESLG0120",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Thursday"
+      }
+    ],
+    "202": [
+      {
+        "id": "ESLG0120",
+        "start": "17:15",
+        "end": "18:20",
+        "day": "Wednesday"
+      }
+    ],
+    "264": [
+      {
+        "id": "ESLG0120",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Tuesday"
+      },
+      {
+        "id": "RSSN1101",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Monday"
+      },
+      {
+        "id": "RSSN1101",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "RSSN1101",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "JPNS1102",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "JPNS1102",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "JPNS1102",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      }
+    ],
+    "147": [
+      {
+        "id": "ESLG0120",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Thursday"
+      },
+      {
+        "id": "ARTD1002",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Tuesday"
+      }
+    ],
+    "205": [
+      {
+        "id": "ESLG0120",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      },
+      {
+        "id": "ESLG0120",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Thursday"
+      },
+      {
+        "id": "AMSL1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "AMSL1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "AMSL1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      }
+    ],
+    "291": [
+      {
+        "id": "ESLG0550",
+        "start": "13:35",
+        "end": "15:55",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0550",
+        "start": "13:35",
+        "end": "15:55",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0550",
+        "start": "13:35",
+        "end": "15:55",
+        "day": "Thursday"
+      },
+      {
+        "id": "JPNS1102",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Tuesday"
+      },
+      {
+        "id": "JPNS1102",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Thursday"
+      },
+      {
+        "id": "JPNS1102",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Friday"
+      }
+    ],
+    "266": [
+      {
+        "id": "ESLG0700",
+        "start": "8:00",
+        "end": "9:40",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ESLG0700",
+        "start": "8:00",
+        "end": "9:40",
+        "day": "Friday"
+      },
+      {
+        "id": "KORE1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "KORE1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "KORE1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "PORT1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "PORT1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "PORT1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      },
+      {
+        "id": "JPNS1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "JPNS1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "JPNS1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      }
+    ],
+    "268": [
+      {
+        "id": "ESLG0700",
+        "start": "15:25",
+        "end": "17:05",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ESLG0700",
+        "start": "15:25",
+        "end": "17:05",
+        "day": "Friday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Thursday"
+      }
+    ],
+    "271": [
+      {
+        "id": "INTP1000",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Tuesday"
+      },
+      {
+        "id": "INSC1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "AMSL1101",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "AMSL1101",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Friday"
+      },
+      {
+        "id": "AMSL1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "AMSL1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "AMSL1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "FSEM1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      }
+    ],
+    "245": [
+      {
+        "id": "HIST1000",
+        "start": "15:25",
+        "end": "16:35",
+        "day": "Tuesday"
+      }
+    ],
+    "124": [
+      {
+        "id": "FSEM1000",
+        "start": "15:25",
+        "end": "17:05",
+        "day": "Tuesday"
+      }
+    ],
+    "297": [
+      {
+        "id": "FSEM1000",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Tuesday"
+      }
+    ],
+    "217": [
+      {
+        "id": "MUSC1000",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Tuesday"
+      },
+      {
+        "id": "BIOL1000",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Thursday"
+      }
+    ],
+    "270": [
+      {
+        "id": "COMM1000",
+        "start": "15:25",
+        "end": "16:30",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ARAB1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "ARAB1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ARAB1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      }
+    ],
+    "456": [
+      {
+        "id": "HSCI1000",
+        "start": "11:45",
+        "end": "12:35",
+        "day": "Friday"
+      }
+    ],
+    "154": [
+      {
+        "id": "GE1000",
+        "start": "14:50",
+        "end": "15:55",
+        "day": "Thursday"
+      },
+      {
+        "id": "GE1000",
+        "start": "14:50",
+        "end": "15:55",
+        "day": "Wednesday"
+      },
+      {
+        "id": "GE1000",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Thursday"
+      }
+    ],
+    "156": [
+      {
+        "id": "GE1000",
+        "start": "14:50",
+        "end": "15:55",
+        "day": "Wednesday"
+      }
+    ],
+    "161": [
+      {
+        "id": "GE1000",
+        "start": "15:25",
+        "end": "16:30",
+        "day": "Wednesday"
+      }
+    ],
+    "296": [
+      {
+        "id": "INSC1000",
+        "start": "15:25",
+        "end": "16:30",
+        "day": "Wednesday"
+      }
+    ],
+    "215": [
+      {
+        "id": "INSC1000",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Tuesday"
+      },
+      {
+        "id": "MUSC1004",
+        "start": "18:00",
+        "end": "20:00",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      }
+    ],
+    "399A": [
+      {
+        "id": "ARTG1002",
+        "start": "8:00",
+        "end": "9:40",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ARTG1002",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Monday"
+      },
+      {
+        "id": "ARTG1002",
+        "start": "8:00",
+        "end": "9:40",
+        "day": "Monday"
+      },
+      {
+        "id": "ARTG1002",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ARTG1002",
+        "start": "15:25",
+        "end": "17:05",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ARTG1002",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ARTG1002",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Friday"
+      }
+    ],
+    "204": [
+      {
+        "id": "ARTG1002",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Monday"
+      }
+    ],
+    "324": [
+      {
+        "id": "ARTG1002",
+        "start": "8:00",
+        "end": "9:40",
+        "day": "Monday"
+      }
+    ],
+    "207": [
+      {
+        "id": "ARTH1002",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Friday"
+      }
+    ],
+    "203": [
+      {
+        "id": "ARTH1002",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Friday"
+      },
+      {
+        "id": "ARTD1002",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ARTD1002",
+        "start": "8:00",
+        "end": "9:40",
+        "day": "Tuesday"
+      }
+    ],
+    "209": [
+      {
+        "id": "ARTH1002",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Thursday"
+      }
+    ],
+    "143": [
+      {
+        "id": "AMSL1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "AMSL1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "AMSL1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      }
+    ],
+    "269": [
+      {
+        "id": "FRNH1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "FRNH1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "FRNH1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "FRNH1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "FRNH1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "FRNH1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "GRMN1102",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Monday"
+      },
+      {
+        "id": "GRMN1102",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Wednesday"
+      },
+      {
+        "id": "GRMN1102",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Thursday"
+      }
+    ],
+    "159": [
+      {
+        "id": "BUSN1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      }
+    ],
+    "265": [
+      {
+        "id": "SPNS1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "SPNS1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "SPNS1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      },
+      {
+        "id": "SPNS1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "SPNS1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "SPNS1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "FRNH1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Monday"
+      },
+      {
+        "id": "FRNH1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "FRNH1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Thursday"
+      }
+    ],
+    "267": [
+      {
+        "id": "SPNS1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "SPNS1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "SPNS1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "SPNS1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "SPNS1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "SPNS1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "SPNS1102",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "SPNS1102",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "SPNS1102",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      }
+    ],
+    "275": [
+      {
+        "id": "CHNS1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "CHNS1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "CHNS1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      },
+      {
+        "id": "CHNS1101",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Monday"
+      },
+      {
+        "id": "CHNS1101",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "CHNS1101",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "CHNS1102",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "CHNS1102",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "CHNS1102",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      }
+    ],
+    "433": [
+      {
+        "id": "EEMB1101",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "EEMB1101",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Friday"
+      }
+    ],
+    "273": [
+      {
+        "id": "ITLN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "ITLN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ITLN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      },
+      {
+        "id": "FRNH1102",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "FRNH1102",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "FRNH1102",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      }
+    ],
+    "277": [
+      {
+        "id": "JPNS1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "JPNS1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "JPNS1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      },
+      {
+        "id": "JPNS1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "JPNS1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "JPNS1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      }
+    ],
+    "435": [
+      {
+        "id": "ITLN1102",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "ITLN1102",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ITLN1102",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      }
+    ],
+    "145": [
+      {
+        "id": "RSSN1102",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Monday"
+      },
+      {
+        "id": "RSSN1102",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "Forsyth Building": {
+    "238": [
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "10:30",
+        "end": "12:50",
+        "day": "Thursday"
+      },
+      {
+        "id": "ARTH1002",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Wednesday"
+      }
+    ],
+    "236": [
+      {
+        "id": "COMM1000",
+        "start": "15:25",
+        "end": "16:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "BUSN1102",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Friday"
+      }
+    ],
+    "242": [
+      {
+        "id": "BUSN1101",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Thursday"
+      }
+    ],
+    "128": [
+      {
+        "id": "BUSN1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      }
+    ],
+    "237": [
+      {
+        "id": "HUSV1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "HUSV1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "HUSV1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      }
+    ],
+    "150": [
+      {
+        "id": "ENGW1102",
+        "start": "15:25",
+        "end": "17:05",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "15:25",
+        "end": "17:05",
+        "day": "Friday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Monday"
+      }
+    ],
+    "241": [
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Monday"
+      }
+    ],
+    "202": [
+      {
+        "id": "BUSN1102",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Thursday"
+      },
+      {
+        "id": "BUSN1102",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Tuesday"
+      },
+      {
+        "id": "BUSN1103",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1103",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Wednesday"
+      }
+    ],
+    "201": [
+      {
+        "id": "BUSN1102",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Tuesday"
+      },
+      {
+        "id": "BUSN1103",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Monday"
+      }
+    ],
+    "231": [
+      {
+        "id": "EEMB1102",
+        "start": "13:35",
+        "end": "16:30",
+        "day": "Thursday"
+      }
+    ]
+  },
+  "Snell Library": {
+    "049": [
+      {
+        "id": "ESLG0095",
+        "start": "13:35",
+        "end": "15:55",
+        "day": "Monday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "13:35",
+        "end": "15:55",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ESLG0095",
+        "start": "13:35",
+        "end": "15:55",
+        "day": "Thursday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      }
+    ],
+    "043": [
+      {
+        "id": "FSEM1000",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "FSEM1000",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Wednesday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Tuesday"
+      }
+    ],
+    "033": [
+      {
+        "id": "PHIL1000",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Friday"
+      }
+    ],
+    "002": [
+      {
+        "id": "GE1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Friday"
+      },
+      {
+        "id": "GE1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      }
+    ],
+    "009": [
+      {
+        "id": "INSC1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ARMY1101",
+        "start": "8:00",
+        "end": "9:00",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Monday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Wednesday"
+      }
+    ],
+    "117": [
+      {
+        "id": "CRIM1100",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "CRIM1100",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "CRIM1100",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      }
+    ],
+    "015": [
+      {
+        "id": "LPSC1101",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Monday"
+      },
+      {
+        "id": "LPSC1101",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Wednesday"
+      },
+      {
+        "id": "LPSC1101",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Thursday"
+      }
+    ],
+    "039": [
+      {
+        "id": "BUSN1102",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      }
+    ],
+    "121": [
+      {
+        "id": "BUSN1103",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Tuesday"
+      }
+    ],
+    "005": [
+      {
+        "id": "BUSN1103",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "Cahners Hall": {
+    "003": [
+      {
+        "id": "ESLG0120",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      }
+    ],
+    "005": [
+      {
+        "id": "FSEM1000",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Wednesday"
+      }
+    ],
+    "007": [
+      {
+        "id": "INSC1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      }
+    ],
+    "006": [
+      {
+        "id": "FSEM1101",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Thursday"
+      }
+    ],
+    "008": [
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Tuesday"
+      }
+    ]
+  },
+  "Richards Hall": {
+    "300": [
+      {
+        "id": "ESLG0120",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Monday"
+      },
+      {
+        "id": "CRIM1000",
+        "start": "14:50",
+        "end": "15:55",
+        "day": "Monday"
+      },
+      {
+        "id": "POLS1000",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "POLS1000",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ARTH1001",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Tuesday"
+      }
+    ],
+    "241": [
+      {
+        "id": "ESLG0520",
+        "start": "15:25",
+        "end": "17:05",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ESLG0520",
+        "start": "15:25",
+        "end": "17:05",
+        "day": "Friday"
+      },
+      {
+        "id": "NRSG1000",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Friday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Thursday"
+      },
+      {
+        "id": "BUSN1103",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Thursday"
+      },
+      {
+        "id": "BUSN1103",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Wednesday"
+      }
+    ],
+    "155": [
+      {
+        "id": "ENGL1000",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Friday"
+      },
+      {
+        "id": "GE1000",
+        "start": "14:50",
+        "end": "15:55",
+        "day": "Monday"
+      },
+      {
+        "id": "GE1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Monday"
+      }
+    ],
+    "229": [
+      {
+        "id": "FSEM1000",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Tuesday"
+      }
+    ],
+    "243": [
+      {
+        "id": "FSEM1000",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Thursday"
+      },
+      {
+        "id": "HSCI1000",
+        "start": "11:45",
+        "end": "12:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "GE1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Friday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      }
+    ],
+    "325": [
+      {
+        "id": "FSEM1000",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Tuesday"
+      }
+    ],
+    "236": [
+      {
+        "id": "ARTF1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Monday"
+      }
+    ],
+    "237": [
+      {
+        "id": "HSCI1000",
+        "start": "11:45",
+        "end": "12:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "INSC1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Thursday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Tuesday"
+      }
+    ],
+    "239": [
+      {
+        "id": "GE1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "GE1000",
+        "start": "15:25",
+        "end": "16:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "GE1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1102",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      }
+    ],
+    "225": [
+      {
+        "id": "GE1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      }
+    ],
+    "140": [
+      {
+        "id": "GE1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      }
+    ],
+    "165": [
+      {
+        "id": "GE1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Friday"
+      },
+      {
+        "id": "GENS1101",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Tuesday"
+      }
+    ],
+    "160": [
+      {
+        "id": "BUSN1103",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Wednesday"
+      }
+    ],
+    "238": [
+      {
+        "id": "BUSN1103",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Thursday"
+      }
+    ]
+  },
+  "Kariotis Hall": {
+    "304": [
+      {
+        "id": "ESLG0120",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      }
+    ],
+    "209": [
+      {
+        "id": "NRSG1000",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Friday"
+      },
+      {
+        "id": "GE1000",
+        "start": "14:50",
+        "end": "15:55",
+        "day": "Thursday"
+      },
+      {
+        "id": "GE1000",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Tuesday"
+      }
+    ],
+    "104": [
+      {
+        "id": "FSEM1000",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Wednesday"
+      },
+      {
+        "id": "HUSV1000",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Friday"
+      }
+    ],
+    "005": [
+      {
+        "id": "GE1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Thursday"
+      },
+      {
+        "id": "GE1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Monday"
+      }
+    ],
+    "204": [
+      {
+        "id": "INSC1000",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      }
+    ],
+    "309": [
+      {
+        "id": "INTL1101",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Tuesday"
+      },
+      {
+        "id": "INTL1101",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Friday"
+      }
+    ],
+    "302": [
+      {
+        "id": "BUSN1103",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Tuesday"
+      }
+    ],
+    "110": [
+      {
+        "id": "CHEM1103",
+        "start": "15:25",
+        "end": "16:30",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "West Village F": {
+    "114": [
+      {
+        "id": "ESLG0120",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Friday"
+      }
+    ],
+    "116": [
+      {
+        "id": "ARTG1002",
+        "start": "15:25",
+        "end": "17:05",
+        "day": "Monday"
+      },
+      {
+        "id": "ARTH1002",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Thursday"
+      }
+    ]
+  },
+  "Dodge Hall": {
+    "111": [
+      {
+        "id": "ESLG0520",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ESLG0520",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Friday"
+      },
+      {
+        "id": "HBRW1101",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Tuesday"
+      },
+      {
+        "id": "HBRW1101",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Thursday"
+      },
+      {
+        "id": "HBRW1101",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Friday"
+      }
+    ],
+    "119": [
+      {
+        "id": "BIOC1000",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      }
+    ],
+    "130": [
+      {
+        "id": "BIOL1000",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "BUSN1103",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Wednesday"
+      }
+    ],
+    "150": [
+      {
+        "id": "BUSN1101",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Thursday"
+      }
+    ],
+    "050": [
+      {
+        "id": "ENVR1101",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Monday"
+      },
+      {
+        "id": "ENVR1101",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Thursday"
+      }
+    ],
+    "070": [
+      {
+        "id": "BUSN1102",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Friday"
+      }
+    ]
+  },
+  "EXP": {
+    "310": [
+      {
+        "id": "CHEM1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Monday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Friday"
+      }
+    ],
+    "311": [
+      {
+        "id": "JRNL1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1102",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Friday"
+      },
+      {
+        "id": "BUSN1102",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Friday"
+      }
+    ],
+    "201": [
+      {
+        "id": "INTL1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1102",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Wednesday"
+      }
+    ],
+    "342": [
+      {
+        "id": "CHEM1102",
+        "start": "13:00",
+        "end": "15:20",
+        "day": "Tuesday"
+      },
+      {
+        "id": "CHEM1102",
+        "start": "14:50",
+        "end": "17:10",
+        "day": "Monday"
+      }
+    ],
+    "341": [
+      {
+        "id": "CHEM1102",
+        "start": "14:50",
+        "end": "17:10",
+        "day": "Monday"
+      }
+    ],
+    "360": [
+      {
+        "id": "CHEM1102",
+        "start": "14:50",
+        "end": "17:10",
+        "day": "Monday"
+      }
+    ]
+  },
+  "Hastings Suite": {
+    "109": [
+      {
+        "id": "FSEM1000",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Wednesday"
+      },
+      {
+        "id": "AMSL1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "AMSL1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "AMSL1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Tuesday"
+      }
+    ],
+    "103": [
+      {
+        "id": "HSCI1000",
+        "start": "11:45",
+        "end": "12:35",
+        "day": "Wednesday"
+      }
+    ],
+    "209": [
+      {
+        "id": "GE1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Tuesday"
+      },
+      {
+        "id": "INSC1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Friday"
+      }
+    ],
+    "107": [
+      {
+        "id": "GE1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Tuesday"
+      },
+      {
+        "id": "BUSN1102",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Friday"
+      }
+    ],
+    "202": [
+      {
+        "id": "GE1000",
+        "start": "9:50",
+        "end": "10:55",
+        "day": "Tuesday"
+      }
+    ],
+    "204": [
+      {
+        "id": "INSC1000",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "INSC1000",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Monday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Tuesday"
+      }
+    ],
+    "111": [
+      {
+        "id": "BUSN1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Tuesday"
+      }
+    ],
+    "105": [
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      }
+    ],
+    "112": [
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Tuesday"
+      }
+    ],
+    "106": [
+      {
+        "id": "ARMY1101",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Tuesday"
+      },
+      {
+        "id": "FSEM1101",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Monday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Tuesday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Wednesday"
+      }
+    ],
+    "101": [
+      {
+        "id": "AFCS1101",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Tuesday"
+      },
+      {
+        "id": "AFCS1101",
+        "start": "13:35",
+        "end": "15:15",
+        "day": "Friday"
+      },
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Thursday"
+      }
+    ],
+    "205": [
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Tuesday"
+      }
+    ],
+    "206": [
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Tuesday"
+      }
+    ],
+    "102": [
+      {
+        "id": "BUSN1102",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Thursday"
+      },
+      {
+        "id": "BUSN1102",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Wednesday"
+      }
+    ],
+    "207": [
+      {
+        "id": "BUSN1102",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Tuesday"
+      }
+    ],
+    "201": [
+      {
+        "id": "BUSN1102",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Wednesday"
+      }
+    ],
+    "211": [
+      {
+        "id": "BUSN1103",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Tuesday"
+      }
+    ],
+    "210": [
+      {
+        "id": "BUSN1103",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Thursday"
+      }
+    ]
+  },
+  "Behrakis Health Sciences Cntr": {
+    "007": [
+      {
+        "id": "FSEM1000",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Thursday"
+      }
+    ],
+    "204": [
+      {
+        "id": "HSCI1000",
+        "start": "11:45",
+        "end": "12:35",
+        "day": "Friday"
+      },
+      {
+        "id": "GE1000",
+        "start": "9:50",
+        "end": "10:55",
+        "day": "Friday"
+      },
+      {
+        "id": "GENS1101",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Thursday"
+      }
+    ],
+    "210": [
+      {
+        "id": "GENS1101",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Monday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Thursday"
+      }
+    ],
+    "307": [
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Monday"
+      },
+      {
+        "id": "AMSL1102",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "AMSL1102",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "AMSL1102",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      }
+    ],
+    "105": [
+      {
+        "id": "BUSN1102",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Thursday"
+      },
+      {
+        "id": "BUSN1102",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Tuesday"
+      }
+    ]
+  },
+  "Shillman Hall": {
+    "420": [
+      {
+        "id": "ARCH1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Friday"
+      }
+    ],
+    "335": [
+      {
+        "id": "PHMD1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Thursday"
+      },
+      {
+        "id": "SLPA1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Thursday"
+      },
+      {
+        "id": "SOCL1101",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "SOCL1101",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Friday"
+      }
+    ],
+    "425": [
+      {
+        "id": "MSCR1100",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Monday"
+      },
+      {
+        "id": "MSCR1100",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Wednesday"
+      }
+    ],
+    "415": [
+      {
+        "id": "CRIM1100",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "CRIM1100",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Friday"
+      }
+    ],
+    "220": [
+      {
+        "id": "PSYC1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Monday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Wednesday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Thursday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Wednesday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Friday"
+      }
+    ],
+    "320": [
+      {
+        "id": "PSYC1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      },
+      {
+        "id": "BUSN1103",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Monday"
+      }
+    ],
+    "105": [
+      {
+        "id": "BUSN1103",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Monday"
+      }
+    ]
+  },
+  "": {
+    "TBA": [
+      {
+        "id": "SOCL1000",
+        "start": "13:00",
+        "end": "15:00",
+        "day": "Friday"
+      },
+      {
+        "id": "ANTH1000",
+        "start": "13:00",
+        "end": "15:00",
+        "day": "Friday"
+      },
+      {
+        "id": "ECON1000",
+        "start": "13:00",
+        "end": "15:00",
+        "day": "Wednesday"
+      },
+      {
+        "id": "ARTH1002",
+        "start": "10:30",
+        "end": "12:30",
+        "day": "Friday"
+      },
+      {
+        "id": "HIST1100",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Friday"
+      },
+      {
+        "id": "ARTH1100",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Friday"
+      },
+      {
+        "id": "CRIM1100",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Tuesday"
+      },
+      {
+        "id": "CRIM1100",
+        "start": "13:00",
+        "end": "15:00",
+        "day": "Wednesday"
+      },
+      {
+        "id": "CRIM1100",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Wednesday"
+      },
+      {
+        "id": "SOCL1101",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Wednesday"
+      },
+      {
+        "id": "SOCL1101",
+        "start": "13:00",
+        "end": "15:00",
+        "day": "Friday"
+      },
+      {
+        "id": "SOCL1101",
+        "start": "13:00",
+        "end": "15:00",
+        "day": "Wednesday"
+      },
+      {
+        "id": "SOCL1101",
+        "start": "13:00",
+        "end": "15:00",
+        "day": "Friday"
+      },
+      {
+        "id": "SOCL1101",
+        "start": "10:30",
+        "end": "12:30",
+        "day": "Friday"
+      },
+      {
+        "id": "THTR1101",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ANTH1101",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Friday"
+      },
+      {
+        "id": "ANTH1101",
+        "start": "13:00",
+        "end": "15:00",
+        "day": "Monday"
+      },
+      {
+        "id": "ARAB1101",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Tuesday"
+      },
+      {
+        "id": "INTL1101",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Tuesday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "13:00",
+        "end": "15:00",
+        "day": "Monday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "10:30",
+        "end": "12:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Tuesday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "10:30",
+        "end": "12:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Wednesday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "10:30",
+        "end": "12:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "CHEM1101",
+        "start": "13:00",
+        "end": "15:00",
+        "day": "Friday"
+      },
+      {
+        "id": "WMNS1101",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Tuesday"
+      },
+      {
+        "id": "JRNL1101",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Tuesday"
+      },
+      {
+        "id": "PHIL1101",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Wednesday"
+      },
+      {
+        "id": "COMM1101",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Wednesday"
+      },
+      {
+        "id": "SOCL1102",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Tuesday"
+      },
+      {
+        "id": "SOCL1102",
+        "start": "8:00",
+        "end": "10:00",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "Mugar Life Science Building": {
+    "201": [
+      {
+        "id": "BNSC1000",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      }
+    ]
+  },
+  "Robinson Hall": {
+    "109": [
+      {
+        "id": "BIOL1000",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Friday"
+      }
+    ]
+  },
+  "Science Engineering Complex": {
+    "142": [
+      {
+        "id": "BIOL1000",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Thursday"
+      },
+      {
+        "id": "BUSN1103",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Monday"
+      }
+    ]
+  },
+  "Virtual Space- Online class": {
+    "ROOM": [
+      {
+        "id": "BIOL1000",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Friday"
+      },
+      {
+        "id": "HSCI1000",
+        "start": "11:45",
+        "end": "12:35",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "Ell Hall": {
+    "311": [
+      {
+        "id": "HSCI1000",
+        "start": "11:45",
+        "end": "12:35",
+        "day": "Wednesday"
+      }
+    ],
+    "AUD": [
+      {
+        "id": "MUSC1001",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Monday"
+      },
+      {
+        "id": "MUSC1001",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Thursday"
+      }
+    ],
+    "410": [
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Monday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Wednesday"
+      },
+      {
+        "id": "BUSN1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Thursday"
+      }
+    ]
+  },
+  "Boston": {
+    "DEPT": [
+      {
+        "id": "THTR1000",
+        "start": "13:35",
+        "end": "14:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "FSEM1101",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Monday"
+      },
+      {
+        "id": "FSEM1101",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "Hurtig Hall": {
+    "308": [
+      {
+        "id": "GE1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Thursday"
+      }
+    ]
+  },
+  "Stetson East": {
+    "020": [
+      {
+        "id": "INSC1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Friday"
+      }
+    ]
+  },
+  "East Village": {
+    "008": [
+      {
+        "id": "INSC1000",
+        "start": "11:45",
+        "end": "12:50",
+        "day": "Tuesday"
+      }
+    ],
+    "010": [
+      {
+        "id": "HONR1102",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "Churchill Hall": {
+    "101": [
+      {
+        "id": "ARTG1001",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Friday"
+      }
+    ],
+    "103": [
+      {
+        "id": "ARTD1001",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Friday"
+      }
+    ]
+  },
+  "Lucie Stern": {
+    "014": [
+      {
+        "id": "ARTG1001",
+        "start": "12:25",
+        "end": "14:05",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ARTG1002",
+        "start": "12:25",
+        "end": "14:05",
+        "day": "Friday"
+      },
+      {
+        "id": "COMM1101",
+        "start": "11:50",
+        "end": "13:30",
+        "day": "Monday"
+      },
+      {
+        "id": "COMM1101",
+        "start": "11:50",
+        "end": "13:30",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "West Village C": {
+    "140": [
+      {
+        "id": "PHSC1001",
+        "start": "11:45",
+        "end": "12:35",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "Music Building": {
+    "123": [
+      {
+        "id": "MUSC1001",
+        "start": "15:00",
+        "end": "16:40",
+        "day": "Tuesday"
+      },
+      {
+        "id": "MUSC1001",
+        "start": "15:00",
+        "end": "16:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "MUSC1001",
+        "start": "11:50",
+        "end": "13:30",
+        "day": "Monday"
+      },
+      {
+        "id": "MUSC1001",
+        "start": "11:50",
+        "end": "13:30",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "West Village G": {
+    "108": [
+      {
+        "id": "ANTH1101",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ANTH1101",
+        "start": "9:50",
+        "end": "11:30",
+        "day": "Friday"
+      }
+    ]
+  },
+  "West Village H": {
+    "212": [
+      {
+        "id": "CS1101",
+        "start": "8:00",
+        "end": "9:05",
+        "day": "Friday"
+      },
+      {
+        "id": "CS1101",
+        "start": "10:30",
+        "end": "11:35",
+        "day": "Friday"
+      },
+      {
+        "id": "CS1101",
+        "start": "9:15",
+        "end": "10:20",
+        "day": "Friday"
+      }
+    ],
+    "110": [
+      {
+        "id": "INTL1101",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Monday"
+      },
+      {
+        "id": "INTL1101",
+        "start": "11:45",
+        "end": "13:25",
+        "day": "Thursday"
+      }
+    ]
+  },
+  "Graduate School of Business": {
+    "109": [
+      {
+        "id": "PSYC1101",
+        "start": "10:35",
+        "end": "11:40",
+        "day": "Monday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "10:35",
+        "end": "11:40",
+        "day": "Wednesday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "10:35",
+        "end": "11:40",
+        "day": "Thursday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "8:45",
+        "end": "10:25",
+        "day": "Monday"
+      },
+      {
+        "id": "PSYC1101",
+        "start": "8:45",
+        "end": "10:25",
+        "day": "Thursday"
+      }
+    ],
+    "124": [
+      {
+        "id": "ENVR1101",
+        "start": "11:50",
+        "end": "13:30",
+        "day": "Monday"
+      },
+      {
+        "id": "ENVR1101",
+        "start": "11:50",
+        "end": "13:30",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "Holmes Hall": {
+    "163": [
+      {
+        "id": "JRNL1101",
+        "start": "8:00",
+        "end": "9:40",
+        "day": "Tuesday"
+      },
+      {
+        "id": "JRNL1101",
+        "start": "8:00",
+        "end": "9:40",
+        "day": "Thursday"
+      }
+    ],
+    "157": [
+      {
+        "id": "JRNL1102",
+        "start": "14:00",
+        "end": "15:00",
+        "day": "Tuesday"
+      },
+      {
+        "id": "JRNL1102",
+        "start": "14:00",
+        "end": "15:00",
+        "day": "Friday"
+      },
+      {
+        "id": "JRNL1102",
+        "start": "15:30",
+        "end": "16:30",
+        "day": "Tuesday"
+      }
+    ]
+  },
+  "Vera Long": {
+    "140": [
+      {
+        "id": "ENGW1102",
+        "start": "10:35",
+        "end": "12:15",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "10:35",
+        "end": "12:15",
+        "day": "Friday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "12:25",
+        "end": "14:05",
+        "day": "Tuesday"
+      },
+      {
+        "id": "ENGW1102",
+        "start": "12:25",
+        "end": "14:05",
+        "day": "Friday"
+      }
+    ]
+  },
+  "Knowles Center": {
+    "002B": [
+      {
+        "id": "BUSN1103",
+        "start": "14:50",
+        "end": "16:30",
+        "day": "Wednesday"
+      }
+    ]
+  },
+  "Cargill Hall": {
+    "094": [
+      {
+        "id": "CHEM1103",
+        "start": "16:35",
+        "end": "17:40",
+        "day": "Wednesday"
+      }
+    ]
+  }
+}

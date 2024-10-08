@@ -5,11 +5,14 @@ class Parser:
         self.data = data
 
     def has_next_page(self) -> bool:
+        if not self.data: return False
         return self.data["data"]["search"]["pageInfo"]["hasNextPage"]
-
-    def get_meetings(self) -> dict[str, list]:
+    
+    def get_nodes(self) -> list:
+        return self.data["data"]["search"]["nodes"]
+        
+    def get_meetings(self, nodes: list) -> dict[str, list]:
         all_meetings = {}
-        nodes = self.data["data"]["search"]["nodes"]
 
         for node in nodes:
             id = node["classId"]
@@ -19,5 +22,6 @@ class Parser:
             all_meetings[f"{subject}{id}"] = meetings
 
         return all_meetings
+
 
 
