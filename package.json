@@ -1,0 +1,17 @@
+{
+  "name": "nolecture-revisited",
+  "version": "1.0.0",
+  "description": "NoLecture Revisited",
+  "main": "_",
+  "repository": "https://github.com/neelthepatel8/nolecture-revisted",
+  "author": "Neel Patel",
+  "license": "MIT",
+  "scripts": {
+    "install": "python3 -m venv api/.venv",
+    "update-requirements": "cd api && source .venv/bin/activate && pip freeze > requirements.txt",
+    "build-api": "source api/.venv/bin/activate && pip install -r api/requirements.txt",
+    "build": "yarn build-api",
+    "run-api": "cd api && make",
+    "add-api": "cd api && source .venv/bin/activate && pip install \"$(echo $npm_config_argv | jq -r '.remain[0]')\" && yarn update-requirements"
+  }
+}

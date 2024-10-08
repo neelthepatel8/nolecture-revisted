@@ -1,0 +1,2938 @@
+{
+  "data": {
+    "search": {
+      "pageInfo": {
+        "hasNextPage": true
+      },
+      "filterOptions": {
+        "nupath": [
+          {
+            "value": "Writing Intensive",
+            "count": 167,
+            "description": null
+          },
+          {
+            "value": "Societies/Institutions",
+            "count": 132,
+            "description": null
+          },
+          {
+            "value": "Interpreting Culture",
+            "count": 104,
+            "description": null
+          },
+          {
+            "value": "Difference/Diversity",
+            "count": 103,
+            "description": null
+          },
+          {
+            "value": "Creative Express/Innov",
+            "count": 94,
+            "description": null
+          },
+          {
+            "value": "Analyzing/Using Data",
+            "count": 82,
+            "description": null
+          },
+          {
+            "value": "Capstone Experience",
+            "count": 77,
+            "description": null
+          },
+          {
+            "value": "Natural/Designed World",
+            "count": 77,
+            "description": null
+          },
+          {
+            "value": "Ethical Reasoning",
+            "count": 54,
+            "description": null
+          },
+          {
+            "value": "Formal/Quant Reasoning",
+            "count": 32,
+            "description": null
+          },
+          {
+            "value": "Integration Experience",
+            "count": 23,
+            "description": null
+          },
+          {
+            "value": "Adv Writ Dscpl",
+            "count": 14,
+            "description": null
+          },
+          {
+            "value": "1st Yr Writing",
+            "count": 3,
+            "description": null
+          }
+        ],
+        "subject": [
+          {
+            "value": "CS",
+            "count": 110,
+            "description": "Computer Science"
+          },
+          {
+            "value": "CHEM",
+            "count": 73,
+            "description": "Chemistry & Chemical Biology"
+          },
+          {
+            "value": "EECE",
+            "count": 73,
+            "description": "Electrical and Comp Engineerng"
+          },
+          {
+            "value": "MATH",
+            "count": 69,
+            "description": "Mathematics"
+          },
+          {
+            "value": "NRSG",
+            "count": 66,
+            "description": "Nursing"
+          },
+          {
+            "value": "PHYS",
+            "count": 55,
+            "description": "Physics"
+          },
+          {
+            "value": "FINA",
+            "count": 53,
+            "description": "Finance & Insurance"
+          },
+          {
+            "value": "BIOL",
+            "count": 52,
+            "description": "Biology"
+          },
+          {
+            "value": "CAEP",
+            "count": 51,
+            "description": "Counseling and Applied Ed Psyc"
+          },
+          {
+            "value": "CIVE",
+            "count": 50,
+            "description": "Civil & Environmental Engineer"
+          },
+          {
+            "value": "ME",
+            "count": 50,
+            "description": "Mechanical Engineering"
+          },
+          {
+            "value": "PSYC",
+            "count": 50,
+            "description": "Psychology"
+          },
+          {
+            "value": "ECON",
+            "count": 49,
+            "description": "Economics"
+          },
+          {
+            "value": "COMM",
+            "count": 48,
+            "description": "Communication Studies"
+          },
+          {
+            "value": "CRIM",
+            "count": 48,
+            "description": "Criminal Justice"
+          },
+          {
+            "value": "HIST",
+            "count": 47,
+            "description": "History"
+          },
+          {
+            "value": "IE",
+            "count": 43,
+            "description": "Industrial Engineering"
+          },
+          {
+            "value": "ARTG",
+            "count": 42,
+            "description": "Art - Design"
+          },
+          {
+            "value": "PHMD",
+            "count": 40,
+            "description": "Pharmacy Practice"
+          },
+          {
+            "value": "MUSC",
+            "count": 39,
+            "description": "Music"
+          },
+          {
+            "value": "POLS",
+            "count": 39,
+            "description": "Political Science"
+          },
+          {
+            "value": "BIOE",
+            "count": 38,
+            "description": "Bioengineering"
+          },
+          {
+            "value": "ENVR",
+            "count": 38,
+            "description": "Earth & Environmental Sciences"
+          },
+          {
+            "value": "PT",
+            "count": 38,
+            "description": "Physical Therapy"
+          },
+          {
+            "value": "CHME",
+            "count": 37,
+            "description": "Chemical Engineering"
+          },
+          {
+            "value": "PHIL",
+            "count": 35,
+            "description": "Philosophy"
+          },
+          {
+            "value": "PHTH",
+            "count": 35,
+            "description": "Public Health"
+          },
+          {
+            "value": "PHSC",
+            "count": 32,
+            "description": "Pharmaceutical Science"
+          },
+          {
+            "value": "ENGL",
+            "count": 31,
+            "description": "English"
+          },
+          {
+            "value": "INFO",
+            "count": 31,
+            "description": "Information Systems Program"
+          },
+          {
+            "value": "PPUA",
+            "count": 31,
+            "description": "Pub Policy and Urban Affairs"
+          },
+          {
+            "value": "BIOT",
+            "count": 30,
+            "description": "Biotechnology"
+          },
+          {
+            "value": "SOCL",
+            "count": 29,
+            "description": "Sociology"
+          },
+          {
+            "value": "ARCH",
+            "count": 28,
+            "description": "Architecture"
+          },
+          {
+            "value": "JRNL",
+            "count": 27,
+            "description": "Journalism"
+          },
+          {
+            "value": "EEMB",
+            "count": 24,
+            "description": "Ecology, Evolutn & Marine Biol"
+          },
+          {
+            "value": "ACCT",
+            "count": 23,
+            "description": "Accounting"
+          },
+          {
+            "value": "MKTG",
+            "count": 23,
+            "description": "Marketing"
+          },
+          {
+            "value": "SLPA",
+            "count": 23,
+            "description": "Speech-Lang Path & Audiology"
+          },
+          {
+            "value": "CY",
+            "count": 21,
+            "description": "Cybersecurity"
+          },
+          {
+            "value": "ARTD",
+            "count": 20,
+            "description": "Art - Media Arts"
+          },
+          {
+            "value": "DS",
+            "count": 20,
+            "description": "Data Science"
+          },
+          {
+            "value": "MSCR",
+            "count": 20,
+            "description": "Media and Screen Studies"
+          },
+          {
+            "value": "HINF",
+            "count": 19,
+            "description": "Health Informatics"
+          },
+          {
+            "value": "THTR",
+            "count": 19,
+            "description": "Theatre"
+          },
+          {
+            "value": "BUSN",
+            "count": 17,
+            "description": "Business Administration"
+          },
+          {
+            "value": "INTL",
+            "count": 17,
+            "description": "International Affairs"
+          },
+          {
+            "value": "INSH",
+            "count": 16,
+            "description": "Interdisc Studies - Soc Sc/Hum"
+          },
+          {
+            "value": "GE",
+            "count": 15,
+            "description": "General Engineering"
+          },
+          {
+            "value": "HLTH",
+            "count": 15,
+            "description": "Health Sci - Interdisciplinary"
+          },
+          {
+            "value": "HUSV",
+            "count": 15,
+            "description": "Human Services"
+          },
+          {
+            "value": "INNO",
+            "count": 15,
+            "description": "Corporate Innovation"
+          },
+          {
+            "value": "PA",
+            "count": 15,
+            "description": "Physician Assistant"
+          },
+          {
+            "value": "WMNS",
+            "count": 15,
+            "description": "Women's/Gender/Sexualty Stdies"
+          },
+          {
+            "value": "CSYE",
+            "count": 14,
+            "description": "Computer Systems Engineering"
+          },
+          {
+            "value": "ENGW",
+            "count": 14,
+            "description": "English Writing"
+          },
+          {
+            "value": "HSCI",
+            "count": 14,
+            "description": "Health Science"
+          },
+          {
+            "value": "MISM",
+            "count": 14,
+            "description": "Management Information Systems"
+          },
+          {
+            "value": "LW",
+            "count": 13,
+            "description": "Law (for Non-Law School Stu)"
+          },
+          {
+            "value": "MUSI",
+            "count": 13,
+            "description": "Music Industry"
+          },
+          {
+            "value": "INTB",
+            "count": 12,
+            "description": "International Business"
+          },
+          {
+            "value": "SCHM",
+            "count": 12,
+            "description": "Supply Chain Management"
+          },
+          {
+            "value": "ARTF",
+            "count": 11,
+            "description": "Art - Fundamentals"
+          },
+          {
+            "value": "ENTR",
+            "count": 11,
+            "description": "Entrepreneurship & Innovation"
+          },
+          {
+            "value": "GAME",
+            "count": 11,
+            "description": "Game Design"
+          },
+          {
+            "value": "GSND",
+            "count": 11,
+            "description": "Game Science and Design"
+          },
+          {
+            "value": "TELE",
+            "count": 11,
+            "description": "Telecommunication Systems"
+          },
+          {
+            "value": "ESLG",
+            "count": 10,
+            "description": "English as Scnd Lng - CPS Spec"
+          },
+          {
+            "value": "INPR",
+            "count": 10,
+            "description": "Interdisc Studies - Provost"
+          },
+          {
+            "value": "SPNS",
+            "count": 10,
+            "description": "Spanish"
+          },
+          {
+            "value": "ANTH",
+            "count": 9,
+            "description": "Anthropology"
+          },
+          {
+            "value": "ARTH",
+            "count": 9,
+            "description": "Art - History"
+          },
+          {
+            "value": "BINF",
+            "count": 9,
+            "description": "Bioinformatics"
+          },
+          {
+            "value": "CLTR",
+            "count": 9,
+            "description": "Culture"
+          },
+          {
+            "value": "EXSC",
+            "count": 9,
+            "description": "Cardiopulmonary & Exercise Sci"
+          },
+          {
+            "value": "INAM",
+            "count": 9,
+            "description": "Interdisc Studies - Arts/Media"
+          },
+          {
+            "value": "MGMT",
+            "count": 9,
+            "description": "Management"
+          },
+          {
+            "value": "MSCI",
+            "count": 9,
+            "description": "Medical Sciences"
+          },
+          {
+            "value": "ABRC",
+            "count": 8,
+            "description": "Study Abroad"
+          },
+          {
+            "value": "AFCS",
+            "count": 8,
+            "description": "Africana Studies"
+          },
+          {
+            "value": "CHNS",
+            "count": 8,
+            "description": "Chinese"
+          },
+          {
+            "value": "LARC",
+            "count": 8,
+            "description": "Landscape Architecture"
+          },
+          {
+            "value": "LING",
+            "count": 8,
+            "description": "Linguistics"
+          },
+          {
+            "value": "DAMG",
+            "count": 7,
+            "description": "Data Architecture Management"
+          },
+          {
+            "value": "EMGT",
+            "count": 7,
+            "description": "Engineering Management"
+          },
+          {
+            "value": "ENCP",
+            "count": 7,
+            "description": "Engineering Cooperative Ed"
+          },
+          {
+            "value": "ENSY",
+            "count": 7,
+            "description": "Energy Systems"
+          },
+          {
+            "value": "FRNH",
+            "count": 7,
+            "description": "French"
+          },
+          {
+            "value": "INTP",
+            "count": 7,
+            "description": "Interpreting"
+          },
+          {
+            "value": "ITLN",
+            "count": 7,
+            "description": "Italian"
+          },
+          {
+            "value": "NETS",
+            "count": 7,
+            "description": "Network Science"
+          },
+          {
+            "value": "AACE",
+            "count": 6,
+            "description": "Arts Admin & Cultural Entrep"
+          },
+          {
+            "value": "GRMN",
+            "count": 6,
+            "description": "German"
+          },
+          {
+            "value": "IS",
+            "count": 6,
+            "description": "Information Science"
+          },
+          {
+            "value": "JPNS",
+            "count": 6,
+            "description": "Japanese"
+          },
+          {
+            "value": "NNMD",
+            "count": 6,
+            "description": "Nanomedicine"
+          },
+          {
+            "value": "SUEN",
+            "count": 6,
+            "description": "Sustainable Urban Environments"
+          },
+          {
+            "value": "ARAB",
+            "count": 5,
+            "description": "Arabic"
+          },
+          {
+            "value": "ENLR",
+            "count": 5,
+            "description": "Engineering Leadership"
+          },
+          {
+            "value": "HRMG",
+            "count": 5,
+            "description": "Human Resources Management"
+          },
+          {
+            "value": "MUST",
+            "count": 5,
+            "description": "Music Technology"
+          },
+          {
+            "value": "PHDL",
+            "count": 5,
+            "description": "PhD Experiential Leadership"
+          },
+          {
+            "value": "STRT",
+            "count": 5,
+            "description": "Strategy"
+          },
+          {
+            "value": "AMSL",
+            "count": 4,
+            "description": "American Sign Language"
+          },
+          {
+            "value": "ASNS",
+            "count": 4,
+            "description": "Asian Studies"
+          },
+          {
+            "value": "EEAM",
+            "count": 4,
+            "description": "Coop/Exper Ed - Arts/Med/Dsgn"
+          },
+          {
+            "value": "EEBA",
+            "count": 4,
+            "description": "Coop/Exper Ed - Business"
+          },
+          {
+            "value": "EESC",
+            "count": 4,
+            "description": "Coop/Exper Ed - Science"
+          },
+          {
+            "value": "ENGR",
+            "count": 4,
+            "description": "Engineering Interdisciplinary"
+          },
+          {
+            "value": "HBRW",
+            "count": 4,
+            "description": "Hebrew"
+          },
+          {
+            "value": "LPSC",
+            "count": 4,
+            "description": "Law and Public Policy"
+          },
+          {
+            "value": "MEIE",
+            "count": 4,
+            "description": "Mech & Industrial Engineering"
+          },
+          {
+            "value": "PORT",
+            "count": 4,
+            "description": "Portuguese"
+          },
+          {
+            "value": "RSSN",
+            "count": 4,
+            "description": "Russian"
+          },
+          {
+            "value": "SBSY",
+            "count": 4,
+            "description": "Sustainable Building Systems"
+          },
+          {
+            "value": "ARMY",
+            "count": 3,
+            "description": "Army ROTC"
+          },
+          {
+            "value": "EDUC",
+            "count": 3,
+            "description": "Education"
+          },
+          {
+            "value": "EXRE",
+            "count": 3,
+            "description": "Extended Realities"
+          },
+          {
+            "value": "HONR",
+            "count": 3,
+            "description": "Honors Program"
+          },
+          {
+            "value": "INMI",
+            "count": 3,
+            "description": "Interdisc Studies - Mills Coll"
+          },
+          {
+            "value": "JWSS",
+            "count": 3,
+            "description": "Jewish Studies"
+          },
+          {
+            "value": "MATM",
+            "count": 3,
+            "description": "Mathematics - CPS Spec"
+          },
+          {
+            "value": "MGSC",
+            "count": 3,
+            "description": "Management Science"
+          },
+          {
+            "value": "TELR",
+            "count": 3,
+            "description": "Technology Leadership"
+          },
+          {
+            "value": "ARTS",
+            "count": 2,
+            "description": "Art - Studio"
+          },
+          {
+            "value": "BIOC",
+            "count": 2,
+            "description": "Biochemistry"
+          },
+          {
+            "value": "BNSC",
+            "count": 2,
+            "description": "Behavioral Neuroscience"
+          },
+          {
+            "value": "COOP",
+            "count": 2,
+            "description": "Cooperative Education"
+          },
+          {
+            "value": "DA",
+            "count": 2,
+            "description": "Data Analytics"
+          },
+          {
+            "value": "DEAF",
+            "count": 2,
+            "description": "Deaf Studies"
+          },
+          {
+            "value": "ECNM",
+            "count": 2,
+            "description": "Economics - CPS Spec"
+          },
+          {
+            "value": "EDUT",
+            "count": 2,
+            "description": "Education - California Prepare"
+          },
+          {
+            "value": "EXED",
+            "count": 2,
+            "description": "Coop/Experiential Education"
+          },
+          {
+            "value": "FSEM",
+            "count": 2,
+            "description": "First-Year Seminar"
+          },
+          {
+            "value": "GBST",
+            "count": 2,
+            "description": "Global Studies"
+          },
+          {
+            "value": "MATL",
+            "count": 2,
+            "description": "Materials Engineering"
+          },
+          {
+            "value": "OR",
+            "count": 2,
+            "description": "Operations Research"
+          },
+          {
+            "value": "ORGB",
+            "count": 2,
+            "description": "Organizational Behavior"
+          },
+          {
+            "value": "PREL",
+            "count": 2,
+            "description": "Public Relations"
+          },
+          {
+            "value": "ARTE",
+            "count": 1,
+            "description": "Art - General"
+          },
+          {
+            "value": "EESH",
+            "count": 1,
+            "description": "Coop/Exper Ed - Soc Sci/Hum"
+          },
+          {
+            "value": "ENVS",
+            "count": 1,
+            "description": "Environmental Studies"
+          },
+          {
+            "value": "GENS",
+            "count": 1,
+            "description": "General Studies"
+          },
+          {
+            "value": "HSTY",
+            "count": 1,
+            "description": "History - CPS Spec"
+          },
+          {
+            "value": "INSC",
+            "count": 1,
+            "description": "Interdisc Studies - Science"
+          },
+          {
+            "value": "KORE",
+            "count": 1,
+            "description": "Korean"
+          },
+          {
+            "value": "LACS",
+            "count": 1,
+            "description": "Latin Am & Carib Studies"
+          },
+          {
+            "value": "MECN",
+            "count": 1,
+            "description": "Managerial Economics"
+          },
+          {
+            "value": "PHLS",
+            "count": 1,
+            "description": "Philosophy - CPS Spec"
+          },
+          {
+            "value": "PMCL",
+            "count": 1,
+            "description": "Pharmacology"
+          },
+          {
+            "value": "PMST",
+            "count": 1,
+            "description": "Pharmaceutics"
+          },
+          {
+            "value": "SCLY",
+            "count": 1,
+            "description": "Sociology - CPS Spec"
+          },
+          {
+            "value": "SMFA",
+            "count": 1,
+            "description": "School of Museum of Fine Arts"
+          }
+        ],
+        "classType": [
+          {
+            "value": "Lecture",
+            "count": 1652,
+            "description": null
+          },
+          {
+            "value": "Individual Instruction",
+            "count": 265,
+            "description": null
+          },
+          {
+            "value": "Seminar",
+            "count": 259,
+            "description": null
+          },
+          {
+            "value": "Lab",
+            "count": 112,
+            "description": null
+          },
+          {
+            "value": "Studio",
+            "count": 91,
+            "description": null
+          },
+          {
+            "value": "Off-campus instruction",
+            "count": 61,
+            "description": null
+          },
+          {
+            "value": "Recitation/Discussion",
+            "count": 36,
+            "description": null
+          },
+          {
+            "value": "Off-campus instruction w/ lec",
+            "count": 27,
+            "description": null
+          }
+        ],
+        "campus": [
+          {
+            "value": "Boston",
+            "count": 1893,
+            "description": null
+          },
+          {
+            "value": "Online",
+            "count": 443,
+            "description": null
+          },
+          {
+            "value": "No campus, no room needed",
+            "count": 336,
+            "description": null
+          },
+          {
+            "value": "Oakland, CA",
+            "count": 110,
+            "description": null
+          },
+          {
+            "value": "Seattle, WA",
+            "count": 66,
+            "description": null
+          },
+          {
+            "value": "Silicon Valley, CA",
+            "count": 52,
+            "description": null
+          },
+          {
+            "value": "Vancouver, Canada",
+            "count": 40,
+            "description": null
+          },
+          {
+            "value": "Portland, Maine",
+            "count": 31,
+            "description": null
+          },
+          {
+            "value": "Toronto, Canada",
+            "count": 29,
+            "description": null
+          },
+          {
+            "value": "Arlington, VA",
+            "count": 23,
+            "description": null
+          },
+          {
+            "value": "Charlotte, NC",
+            "count": 12,
+            "description": null
+          },
+          {
+            "value": "Study Abroad",
+            "count": 8,
+            "description": null
+          },
+          {
+            "value": "Miami, FL",
+            "count": 6,
+            "description": null
+          },
+          {
+            "value": "Nahant",
+            "count": 6,
+            "description": null
+          },
+          {
+            "value": "Burlington",
+            "count": 3,
+            "description": null
+          },
+          {
+            "value": "London",
+            "count": 3,
+            "description": null
+          }
+        ],
+        "honors": [
+          {
+            "value": "0",
+            "count": 2500,
+            "description": null
+          },
+          {
+            "value": "1",
+            "count": 32,
+            "description": null
+          }
+        ]
+      },
+      "nodes": [
+        {
+          "type": "ClassOccurrence",
+          "name": "Reading in the Field of Study",
+          "subject": "ESLG",
+          "classId": "0045",
+          "termId": "202510",
+          "host": "neu.edu",
+          "desc": "Offers students an opportunity to analyze important issues in their intended field of study while improving their academic reading skills in an interdisciplinary course. Using journal articles and other media, students investigate current theories, trends, practices, and perspectives in their specific field of study.",
+          "nupath": [],
+          "prereqs": {
+            "type": "and",
+            "values": []
+          },
+          "coreqs": {
+            "type": "and",
+            "values": []
+          },
+          "prereqsFor": [],
+          "optPrereqsFor": [],
+          "maxCredits": 3,
+          "minCredits": 3,
+          "classAttributes": ["Global Pathways  PB90"],
+          "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0045",
+          "prettyUrl": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0045",
+          "lastUpdateTime": 1728407978236,
+          "feeAmount": null,
+          "feeDescription": "",
+          "sections": [
+            {
+              "campus": "Boston",
+              "classId": "0045",
+              "classType": "Lecture",
+              "crn": "13447",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 37800,
+                        "start": 32400
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 37800,
+                        "start": 32400
+                      }
+                    ]
+                  },
+                  "where": "89 Broad Street 237",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Veronika Maliborska", "Rachel Toncelli"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 8,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0045",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0045",
+              "classType": "Lecture",
+              "crn": "13449",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 54000,
+                        "start": 48600
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 54000,
+                        "start": 48600
+                      }
+                    ]
+                  },
+                  "where": "89 Broad Street 211",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Veronika Maliborska"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 8,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0045",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            }
+          ]
+        },
+        {
+          "type": "ClassOccurrence",
+          "name": "Career Exploration 1",
+          "subject": "ESLG",
+          "classId": "0080",
+          "termId": "202510",
+          "host": "neu.edu",
+          "desc": "Offers a content-based ESL course. Designed to help students develop language and academic skills through the content of career exploration. Offers students an opportunity to define and develop realistic goals, identify special needs, plan progress toward educational and career goals, and discuss linkages between academic preparation and the world of work. Uses lectures, readings, discussion, and class activities to explore three main themes: learning about yourself, exploring careers, and planning for the future. Requires permission of the English Language Center.",
+          "nupath": [],
+          "prereqs": {
+            "type": "and",
+            "values": []
+          },
+          "coreqs": {
+            "type": "and",
+            "values": []
+          },
+          "prereqsFor": [],
+          "optPrereqsFor": [],
+          "maxCredits": 1,
+          "minCredits": 1,
+          "classAttributes": ["English Language Center  PB94"],
+          "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0080",
+          "prettyUrl": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0080",
+          "lastUpdateTime": 1728407978236,
+          "feeAmount": null,
+          "feeDescription": "",
+          "sections": [
+            {
+              "campus": "Boston",
+              "classId": "0080",
+              "classType": "Lecture",
+              "crn": "15417",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "4": [
+                      {
+                        "end": 52800,
+                        "start": 48900
+                      }
+                    ]
+                  },
+                  "where": "Hayden Hall 425",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Veronika Maliborska", "Abigail McCabe"],
+              "seatsCapacity": 30,
+              "seatsRemaining": 19,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0080",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0080",
+              "classType": "Lecture",
+              "crn": "12945",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "4": [
+                      {
+                        "end": 63600,
+                        "start": 59700
+                      }
+                    ]
+                  },
+                  "where": "Cullinane Building 105",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Veronika Maliborska", "Maria Para"],
+              "seatsCapacity": 19,
+              "seatsRemaining": 8,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0080",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            }
+          ]
+        },
+        {
+          "type": "ClassOccurrence",
+          "name": "Advanced Reading and Writing",
+          "subject": "ESLG",
+          "classId": "0095",
+          "termId": "202510",
+          "host": "neu.edu",
+          "desc": "Introduces the fundamentals of critical reading and writing in an academic context. Emphasizes analyzing and interpreting various forms of argument, evaluating the rhetorical dimension of a text, and using critical texts as the basis for developing an independent position with a cogent line of argument. Working closely with a selection of texts drawn from different genres, offers students an opportunity to practice summary, paraphrase, quotation, and the synthesis of multiple viewpoints. Focuses on reading strategies and grammar fundamentals. Seeks to prepare students to succeed on standardized tests of English.",
+          "nupath": [],
+          "prereqs": {
+            "type": "and",
+            "values": []
+          },
+          "coreqs": {
+            "type": "and",
+            "values": []
+          },
+          "prereqsFor": [],
+          "optPrereqsFor": [],
+          "maxCredits": 4,
+          "minCredits": 4,
+          "classAttributes": ["English Language Center  PB94"],
+          "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+          "prettyUrl": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+          "lastUpdateTime": 1728407978236,
+          "feeAmount": null,
+          "feeDescription": "",
+          "sections": [
+            {
+              "campus": "Boston",
+              "classId": "0095",
+              "classType": "Lecture",
+              "crn": "12643",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ]
+                  },
+                  "where": "International Village 018",
+                  "endDate": 20061,
+                  "startDate": 19970
+                },
+                {
+                  "type": "Final Exam",
+                  "times": {
+                    "3": [
+                      {
+                        "end": 63000,
+                        "start": 55800
+                      }
+                    ]
+                  },
+                  "where": "TBA",
+                  "endDate": 20068,
+                  "startDate": 20068
+                }
+              ],
+              "profs": ["Brent Griffin", "Cristine McMartin-Miller"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 6,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0095",
+              "classType": "Lecture",
+              "crn": "12864",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 57300,
+                        "start": 48900
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 57300,
+                        "start": 48900
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 57300,
+                        "start": 48900
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 293",
+                  "endDate": 20061,
+                  "startDate": 19970
+                },
+                {
+                  "type": "Final Exam",
+                  "times": {
+                    "3": [
+                      {
+                        "end": 63000,
+                        "start": 55800
+                      }
+                    ]
+                  },
+                  "where": "TBA",
+                  "endDate": 20068,
+                  "startDate": 20068
+                }
+              ],
+              "profs": ["Cristine McMartin-Miller", "Rachel Toncelli"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 1,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0095",
+              "classType": "Lecture",
+              "crn": "12642",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 37200,
+                        "start": 28800
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 37200,
+                        "start": 28800
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 37200,
+                        "start": 28800
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 285",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Cristine McMartin-Miller", "Veronika Maliborska"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 5,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0095",
+              "classType": "Lecture",
+              "crn": "14209",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 37200,
+                        "start": 28800
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 37200,
+                        "start": 28800
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 37200,
+                        "start": 28800
+                      }
+                    ]
+                  },
+                  "where": "International Village 018",
+                  "endDate": 20061,
+                  "startDate": 19970
+                },
+                {
+                  "type": "Final Exam",
+                  "times": {
+                    "3": [
+                      {
+                        "end": 63000,
+                        "start": 55800
+                      }
+                    ]
+                  },
+                  "where": "TBA",
+                  "endDate": 20068,
+                  "startDate": 20068
+                }
+              ],
+              "profs": ["Cristine McMartin-Miller", "Joan Parkin"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 5,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0095",
+              "classType": "Lecture",
+              "crn": "12865",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 57300,
+                        "start": 48900
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 57300,
+                        "start": 48900
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 57300,
+                        "start": 48900
+                      }
+                    ]
+                  },
+                  "where": "Snell Library 049",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Cristine McMartin-Miller"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 3,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0095",
+              "classType": "Lecture",
+              "crn": "16431",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ]
+                  },
+                  "where": "International Village 016",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Cristine McMartin-Miller"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 5,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0095",
+              "classType": "Lecture",
+              "crn": "13089",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ]
+                  },
+                  "where": "Forsyth Building 238",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Cristine McMartin-Miller", "Natalya Watson"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 5,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0095",
+              "classType": "Lecture",
+              "crn": "12641",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 37200,
+                        "start": 28800
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 37200,
+                        "start": 28800
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 37200,
+                        "start": 28800
+                      }
+                    ]
+                  },
+                  "where": "International Village 016",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Cristine McMartin-Miller"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 3,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0095",
+              "classType": "Lecture",
+              "crn": "16381",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 283",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Cristine McMartin-Miller", "Veronika Maliborska"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 4,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0095",
+              "classType": "Lecture",
+              "crn": "14983",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 46200,
+                        "start": 37800
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 285",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Cristine McMartin-Miller", "Elham Dehghan"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 4,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0095",
+              "classType": "Lecture",
+              "crn": "14208",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 57300,
+                        "start": 48900
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 57300,
+                        "start": 48900
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 57300,
+                        "start": 48900
+                      }
+                    ]
+                  },
+                  "where": "International Village 018",
+                  "endDate": 20061,
+                  "startDate": 19970
+                },
+                {
+                  "type": "Final Exam",
+                  "times": {
+                    "3": [
+                      {
+                        "end": 63000,
+                        "start": 55800
+                      }
+                    ]
+                  },
+                  "where": "TBA",
+                  "endDate": 20068,
+                  "startDate": 20068
+                }
+              ],
+              "profs": ["Brent Griffin", "Cristine McMartin-Miller"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 4,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0095",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            }
+          ]
+        },
+        {
+          "type": "ClassOccurrence",
+          "name": "Community Learning 1",
+          "subject": "ESLG",
+          "classId": "0120",
+          "termId": "202510",
+          "host": "neu.edu",
+          "desc": "Offers an introduction to community learning, social justice, and cross-cultural collaboration in Boston. The main objective is to help students prepare for, gain from, and reflect upon their semester in Boston as a profound global experience. Uses lectures, course readings, group discussions, collaborative projects, and semester-long service-learning opportunities to challenge students to ask critical questions and become global citizens and ambassadors by actively participating in their own learning community, as well as the greater Northeastern community, and beyond into Boston. Ongoing, online reflection is designed to help students articulate their own experiences, respond to others’ experiences, and ultimately make connections with the global experiences of others.",
+          "nupath": [],
+          "prereqs": {
+            "type": "and",
+            "values": []
+          },
+          "coreqs": {
+            "type": "and",
+            "values": []
+          },
+          "prereqsFor": [],
+          "optPrereqsFor": [],
+          "maxCredits": 1,
+          "minCredits": 0,
+          "classAttributes": ["English Language Center  PB94"],
+          "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+          "prettyUrl": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+          "lastUpdateTime": 1728407978236,
+          "feeAmount": null,
+          "feeDescription": "",
+          "sections": [
+            {
+              "campus": "Boston",
+              "classId": "0120",
+              "classType": "Lecture",
+              "crn": "17340",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "3": [
+                      {
+                        "end": 37200,
+                        "start": 33300
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 141",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Brent Griffin", "Lucy Bunning"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 2,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0120",
+              "classType": "Lecture",
+              "crn": "17346",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "4": [
+                      {
+                        "end": 63600,
+                        "start": 59700
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 394",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Lucy Bunning", "Christina Folsom"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 2,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0120",
+              "classType": "Lecture",
+              "crn": "17335",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 63600,
+                        "start": 59700
+                      }
+                    ]
+                  },
+                  "where": "Richards Hall 300",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Lucy Bunning", "Derek Petrarca"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 3,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0120",
+              "classType": "Lecture",
+              "crn": "17345",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "3": [
+                      {
+                        "end": 66000,
+                        "start": 62100
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 202",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Lucy Bunning", "Michele Rosenthal"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 0,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0120",
+              "classType": "Lecture",
+              "crn": "17338",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 41700,
+                        "start": 37800
+                      }
+                    ]
+                  },
+                  "where": "Kariotis Hall 304",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Lucy Bunning"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 3,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0120",
+              "classType": "Lecture",
+              "crn": "17341",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "4": [
+                      {
+                        "end": 46200,
+                        "start": 42300
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 147",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Natalia Masic", "Lucy Bunning"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 1,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0120",
+              "classType": "Lecture",
+              "crn": "17350",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "4": [
+                      {
+                        "end": 52800,
+                        "start": 48900
+                      }
+                    ]
+                  },
+                  "where": "Cahners Hall 003",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Lucy Bunning", "Jennifer Lacroix"],
+              "seatsCapacity": 7,
+              "seatsRemaining": -7,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0120",
+              "classType": "Lecture",
+              "crn": "17333",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 52800,
+                        "start": 48900
+                      }
+                    ]
+                  },
+                  "where": "West Village F 114",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Lucy Bunning", "Sasha Goldman"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 2,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0120",
+              "classType": "Lecture",
+              "crn": "17342",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "2": [
+                      {
+                        "end": 46200,
+                        "start": 42300
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 264",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Beth Smith", "Lucy Bunning"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 1,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0120",
+              "classType": "Lecture",
+              "crn": "17353",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "4": [
+                      {
+                        "end": 41700,
+                        "start": 37800
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 205",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Lucy Bunning", "Yishiuan Chin"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 2,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0120",
+              "classType": "Lecture",
+              "crn": "17339",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "4": [
+                      {
+                        "end": 46200,
+                        "start": 42300
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 205",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Lucy Bunning", "Yishiuan Chin"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 1,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0120",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            }
+          ]
+        },
+        {
+          "type": "ClassOccurrence",
+          "name": "Core Structure and Vocabulary",
+          "subject": "ESLG",
+          "classId": "0224",
+          "termId": "202510",
+          "host": "neu.edu",
+          "desc": "Offers an integrated-skills course that uses a content-based curriculum and student-centered activities. Seeks to expand students’ vocabulary and improve their grammar through listening, speaking, reading, and writing.",
+          "nupath": [],
+          "prereqs": {
+            "type": "and",
+            "values": []
+          },
+          "coreqs": {
+            "type": "and",
+            "values": []
+          },
+          "prereqsFor": [],
+          "optPrereqsFor": [],
+          "maxCredits": 4,
+          "minCredits": 4,
+          "classAttributes": ["English Language Center  PB94"],
+          "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0224",
+          "prettyUrl": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0224",
+          "lastUpdateTime": 1728407978236,
+          "feeAmount": null,
+          "feeDescription": "",
+          "sections": [
+            {
+              "campus": "Boston",
+              "classId": "0224",
+              "classType": "Lecture",
+              "crn": "22221",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "2": [
+                      {
+                        "end": 41400,
+                        "start": 35400
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 41400,
+                        "start": 35400
+                      }
+                    ]
+                  },
+                  "where": "89 Broad Street 237",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Cristine McMartin-Miller", "Kevin Samejon"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 8,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0224",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0224",
+              "classType": "Lecture",
+              "crn": "22524",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "2": [
+                      {
+                        "end": 59400,
+                        "start": 54000
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 59400,
+                        "start": 54000
+                      }
+                    ]
+                  },
+                  "where": "89 Broad Street 209",
+                  "endDate": 20070,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Cristine McMartin-Miller"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 5,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0224",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            }
+          ]
+        },
+        {
+          "type": "ClassOccurrence",
+          "name": "Writing for Graduate School",
+          "subject": "ESLG",
+          "classId": "0230",
+          "termId": "202510",
+          "host": "neu.edu",
+          "desc": "Explores methods for researching, organizing, and writing term papers and for making presentations. Offers students an opportunity to become familiar with and to learn to integrate techniques such as use of metaphor and analogy, juxtaposition of ideas, and variation of tone to more effectively articulate their ideas in academic writing, as well as to learn how to conduct library and online research, to paraphrase and summarize effectively, to organize an extended piece of writing, and to cite sources appropriately. Focuses on individual writing needs. Covers the importance of the process as well as the product of writing, and students are expected to keep a portfolio of their writing as well as to develop a final extended research paper exploring an academic topic in-depth. May be repeated up to two times.",
+          "nupath": [],
+          "prereqs": {
+            "type": "and",
+            "values": []
+          },
+          "coreqs": {
+            "type": "and",
+            "values": []
+          },
+          "prereqsFor": [],
+          "optPrereqsFor": [],
+          "maxCredits": 5,
+          "minCredits": 4,
+          "classAttributes": ["Global Pathways  PB90"],
+          "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0230",
+          "prettyUrl": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0230",
+          "lastUpdateTime": 1728407978236,
+          "feeAmount": null,
+          "feeDescription": "",
+          "sections": [
+            {
+              "campus": "Boston",
+              "classId": "0230",
+              "classType": "Lecture",
+              "crn": "11742",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 60600,
+                        "start": 48600
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 60600,
+                        "start": 48600
+                      }
+                    ]
+                  },
+                  "where": "89 Broad Street 215",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Veronika Maliborska", "Joan Parkin"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 8,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0230",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0230",
+              "classType": "Lecture",
+              "crn": "10999",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 44400,
+                        "start": 32400
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 44400,
+                        "start": 32400
+                      }
+                    ]
+                  },
+                  "where": "89 Broad Street 215",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Veronika Maliborska", "Maria Tomeho-Palermino"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 8,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0230",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            }
+          ]
+        },
+        {
+          "type": "ClassOccurrence",
+          "name": "Advanced Reading for Graduate School",
+          "subject": "ESLG",
+          "classId": "0510",
+          "termId": "202510",
+          "host": "neu.edu",
+          "desc": "Offers students an opportunity to become active and critical readers of complex academic texts. Active reading, the principal learning approach, entails close engagement with the information in an assigned reading by deconstructing a text, synthesizing main ideas, and making connections with other scholarship in a field. Focuses on identifying discipline-specific vocabulary, untangling grammatical structures, and outlining textual features of a variety of genres in a range of academic disciplines. Restricted to Global Pathways students only.",
+          "nupath": [],
+          "prereqs": {
+            "type": "and",
+            "values": []
+          },
+          "coreqs": {
+            "type": "and",
+            "values": []
+          },
+          "prereqsFor": [],
+          "optPrereqsFor": [],
+          "maxCredits": 3,
+          "minCredits": 3,
+          "classAttributes": ["Global Pathways  PB90"],
+          "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0510",
+          "prettyUrl": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0510",
+          "lastUpdateTime": 1728407978236,
+          "feeAmount": null,
+          "feeDescription": "",
+          "sections": [
+            {
+              "campus": "Boston",
+              "classId": "0510",
+              "classType": "Lecture",
+              "crn": "11723",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "3": [
+                      {
+                        "end": 48300,
+                        "start": 42300
+                      }
+                    ],
+                    "5": [
+                      {
+                        "end": 48300,
+                        "start": 42300
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 141",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Natalya Watson", "Kevin Samejon"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 7,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0510",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0510",
+              "classType": "Lecture",
+              "crn": "11722",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 48300,
+                        "start": 42300
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 48300,
+                        "start": 42300
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 141",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Natalya Watson", "Richard Goldberg"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 4,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0510",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            }
+          ]
+        },
+        {
+          "type": "ClassOccurrence",
+          "name": "Advanced Listening and Speaking for Graduate School",
+          "subject": "ESLG",
+          "classId": "0520",
+          "termId": "202510",
+          "host": "neu.edu",
+          "desc": "Offers students an opportunity to learn how to make speech more understandable in a variety of settings (telephone, one-on-one conversation, presentations) and to improve their active listening skills. Seeks to enable students to identify the key aspects of pronunciation, choose appropriate speaking strategies to modify their own spoken English, identify characteristics that influence spoken English, and demonstrate control of pitch and intonation. Restricted to Global Pathways students only.",
+          "nupath": [],
+          "prereqs": {
+            "type": "and",
+            "values": []
+          },
+          "coreqs": {
+            "type": "and",
+            "values": []
+          },
+          "prereqsFor": [],
+          "optPrereqsFor": [],
+          "maxCredits": 3,
+          "minCredits": 3,
+          "classAttributes": ["Global Pathways  PB90"],
+          "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0520",
+          "prettyUrl": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0520",
+          "lastUpdateTime": 1728407978236,
+          "feeAmount": null,
+          "feeDescription": "",
+          "sections": [
+            {
+              "campus": "Boston",
+              "classId": "0520",
+              "classType": "Lecture",
+              "crn": "11728",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "2": [
+                      {
+                        "end": 61500,
+                        "start": 55500
+                      }
+                    ],
+                    "5": [
+                      {
+                        "end": 61500,
+                        "start": 55500
+                      }
+                    ]
+                  },
+                  "where": "Richards Hall 241",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Ross Horvitz", "Ilka Kostka"],
+              "seatsCapacity": 16,
+              "seatsRemaining": 5,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0520",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0520",
+              "classType": "Lecture",
+              "crn": "12611",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "2": [
+                      {
+                        "end": 54900,
+                        "start": 48900
+                      }
+                    ],
+                    "5": [
+                      {
+                        "end": 54900,
+                        "start": 48900
+                      }
+                    ]
+                  },
+                  "where": "Dodge Hall 111",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Ross Horvitz", "Ilka Kostka"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 7,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0520",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            }
+          ]
+        },
+        {
+          "type": "ClassOccurrence",
+          "name": "Research and Writing for Graduate School",
+          "subject": "ESLG",
+          "classId": "0550",
+          "termId": "202510",
+          "host": "neu.edu",
+          "desc": "Addresses formal investigation as one of the primary means of creating knowledge. Examines philosophical issues underpinning the nature of knowledge claims, the relationship of knowledge to evidence, and techniques of gathering and interpreting evidence. Analyzes the purposes of research; the methods of quantitative, qualitative, and mixed research; and the processes involved in research studies. Offers students an opportunity to conduct a research project in small groups by selecting a topic from a relevant area of study, designing a research proposal, reviewing relevant literature, and presenting methodology and conclusions in written form. Restricted to Global Pathways students only.",
+          "nupath": [],
+          "prereqs": {
+            "type": "and",
+            "values": []
+          },
+          "coreqs": {
+            "type": "and",
+            "values": []
+          },
+          "prereqsFor": [],
+          "optPrereqsFor": [],
+          "maxCredits": 6,
+          "minCredits": 5,
+          "classAttributes": ["Global Pathways  PB90"],
+          "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0550",
+          "prettyUrl": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0550",
+          "lastUpdateTime": 1728407978236,
+          "feeAmount": null,
+          "feeDescription": "",
+          "sections": [
+            {
+              "campus": "Boston",
+              "classId": "0550",
+              "classType": "Lecture",
+              "crn": "11765",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 57300,
+                        "start": 48900
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 57300,
+                        "start": 48900
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 57300,
+                        "start": 48900
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 291",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Natalya Watson"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 7,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0550",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0550",
+              "classType": "Lecture",
+              "crn": "11763",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "1": [
+                      {
+                        "end": 37200,
+                        "start": 28800
+                      }
+                    ],
+                    "3": [
+                      {
+                        "end": 37200,
+                        "start": 28800
+                      }
+                    ],
+                    "4": [
+                      {
+                        "end": 37200,
+                        "start": 28800
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 283",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Natalya Watson", "Olga Birioukova"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 7,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0550",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            }
+          ]
+        },
+        {
+          "type": "ClassOccurrence",
+          "name": "Advanced Listening and Speaking",
+          "subject": "ESLG",
+          "classId": "0700",
+          "termId": "202510",
+          "host": "neu.edu",
+          "desc": "Offers advanced ESL students an opportunity to obtain the confidence and skills to participate effectively in the American classroom as well as to perform successfully on a standardized English-language exam. Students participate in and lead class discussions and give formal oral presentations with the aim of improving academic listening skills. In addition to developing testing skills, students work on note-taking skills, study rhetorical expectations, interact with instructors and advisors, and sharpen their oral skills by engaging critically with others in class. Takes a balanced approach to fluency and accuracy and strives to help students become autonomous learners through use of technology. In addition to self-analysis exercises, students analyze classmates’ presentations and language production.",
+          "nupath": [],
+          "prereqs": {
+            "type": "and",
+            "values": []
+          },
+          "coreqs": {
+            "type": "and",
+            "values": []
+          },
+          "prereqsFor": [],
+          "optPrereqsFor": [],
+          "maxCredits": 3,
+          "minCredits": 3,
+          "classAttributes": ["Global Pathways  PB90"],
+          "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0700",
+          "prettyUrl": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0700",
+          "lastUpdateTime": 1728407978236,
+          "feeAmount": null,
+          "feeDescription": "",
+          "sections": [
+            {
+              "campus": "Boston",
+              "classId": "0700",
+              "classType": "Lecture",
+              "crn": "16406",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "2": [
+                      {
+                        "end": 61500,
+                        "start": 55500
+                      }
+                    ],
+                    "5": [
+                      {
+                        "end": 61500,
+                        "start": 55500
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 268",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Lucy Bunning", "Lin Zhou", "Jennifer Lacroix"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 8,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0700",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0700",
+              "classType": "Lecture",
+              "crn": "17356",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "2": [
+                      {
+                        "end": 54900,
+                        "start": 48900
+                      }
+                    ],
+                    "5": [
+                      {
+                        "end": 54900,
+                        "start": 48900
+                      }
+                    ]
+                  },
+                  "where": "International Village 018",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Lucy Bunning", "Lin Zhou", "Jennifer Lacroix"],
+              "seatsCapacity": 15,
+              "seatsRemaining": 2,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0700",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0700",
+              "classType": "Lecture",
+              "crn": "14211",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "2": [
+                      {
+                        "end": 34800,
+                        "start": 28800
+                      }
+                    ],
+                    "5": [
+                      {
+                        "end": 34800,
+                        "start": 28800
+                      }
+                    ]
+                  },
+                  "where": "Cullinane Building 105",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Ye Zhang", "Lucy Bunning", "Lin Zhou"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 4,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0700",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0700",
+              "classType": "Lecture",
+              "crn": "12234",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "2": [
+                      {
+                        "end": 34800,
+                        "start": 28800
+                      }
+                    ],
+                    "5": [
+                      {
+                        "end": 34800,
+                        "start": 28800
+                      }
+                    ]
+                  },
+                  "where": "Ryder Hall 266",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Lucy Bunning", "Olga Birioukova", "Lin Zhou"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 4,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0700",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            },
+            {
+              "campus": "Boston",
+              "classId": "0700",
+              "classType": "Lecture",
+              "crn": "13319",
+              "honors": false,
+              "host": "neu.edu",
+              "lastUpdateTime": 1728407978236,
+              "meetings": [
+                {
+                  "type": "Class",
+                  "times": {
+                    "2": [
+                      {
+                        "end": 41400,
+                        "start": 35400
+                      }
+                    ],
+                    "5": [
+                      {
+                        "end": 41400,
+                        "start": 35400
+                      }
+                    ]
+                  },
+                  "where": "Cullinane Building 105",
+                  "endDate": 20061,
+                  "startDate": 19970
+                }
+              ],
+              "profs": ["Lucy Bunning", "Lin Zhou"],
+              "seatsCapacity": 18,
+              "seatsRemaining": 8,
+              "subject": "ESLG",
+              "termId": "202510",
+              "url": "https://bnrordsp.neu.edu/ssb-prod/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=ESLG&crse_numb_in=0700",
+              "waitCapacity": 0,
+              "waitRemaining": 0
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
