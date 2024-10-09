@@ -3,8 +3,12 @@ import mysql.connector
 import constants as secrets
 import queries
 from datetime import time, timedelta
+from flask_cors import CORS, cross_origin
+
 
 app = Flask(__name__)
+CORS(app, support_credentials=True)
+
 
 def get_db_connection():
     connection = mysql.connector.connect(
@@ -37,12 +41,13 @@ def get_free_classrooms():
 
     return result
 
+@cross_origin(supports_credentials=True)
 @app.route('/api/free-classrooms', methods=['GET'])
 def free_classrooms():
     free_classrooms_data = get_free_classrooms()
     return jsonify(free_classrooms_data)
 
-
+@cross_origin(supports_credentials=True)
 @app.route('/')
 def default_landing():
     return 'NoLecture-Revisited API'
