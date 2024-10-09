@@ -7,7 +7,7 @@
   "author": "Neel Patel",
   "license": "MIT",
   "scripts": {
-    "install": "python3 -m venv .venv",
+    "install-vm": "python3 -m venv .venv",
     "update-requirements": "source .venv/bin/activate && pip freeze > requirements.txt",
     "build": "source .venv/bin/activate && pip install -r requirements.txt",
     "build-prod": "pip install -r requirements.txt",
