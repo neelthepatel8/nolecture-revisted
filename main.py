@@ -23,6 +23,7 @@ def get_db_connection():
 def get_free_classrooms():
     connection = get_db_connection()
     cursor = connection.cursor(dictionary=True) 
+    cursor.execute("SET time_zone = 'America/New_York';")
 
     query = queries.QUERY_FREE_CLASSROOMS
 
