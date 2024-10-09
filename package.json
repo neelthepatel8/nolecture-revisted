@@ -10,6 +10,7 @@
     "install": "python3 -m venv .venv",
     "update-requirements": "source .venv/bin/activate && pip freeze > requirements.txt",
     "build": "source .venv/bin/activate && pip install -r requirements.txt",
+    "build-prod": "pip install -r requirements.txt",
     "start": "make",
     "add-api": "source .venv/bin/activate && pip install \"$(echo $npm_config_argv | jq -r '.remain[0]')\" && yarn update-requirements"
   }
